@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Programming**
 
-- 👨‍💻 All of my projects are available at [https://showcase-isuru.netlify.app/](https://showcase-isuru.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://showcase-isuru.netlify.app/](https://showcase-isuru.netlify.app/) [🏃‍♂️‍➡️ On my way to Update, not updated for awhile 🥺]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
