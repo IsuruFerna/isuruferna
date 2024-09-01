@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning and improving my skills **Web Programming - FullStack Development**
 
-- 👨‍💻 All of my projects are available at [[https://portfolio-isuru.netlify.app/](https://portfolio-isuru.netlify.app/)](https://isurufernando.com/) [🏃‍♂️‍➡️ Under development ]
+- 👨‍💻 All of my projects are available at [https://isurufernando.com/](https://isurufernando.com/) [🏃‍♂️‍➡️ Under development ]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
