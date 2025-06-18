@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isuru Fernando</h1>
-<h3 align="center">Full-Stack Developer - Graphic Designer</h3>
+<h3 align="center">IT System Management | Full-Stack Developer | DevOps | Graphic Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isuruferna&label=Profile%20views&color=0e75b6&style=flat" alt="isuruferna" /> </p>
 
